@@ -29,7 +29,7 @@
 
 const char* ssid = "Your_SSID";
 const char* password = "Your_PASSWORD";
-const char* serverName = "http://192.168.18.65:5000/";
+const char* serverName = "your_local_server_ip:your_port";
 
 DHT dht(DHTPIN, DHTTYPE);
 
